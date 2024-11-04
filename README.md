@@ -357,3 +357,912 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   <summary>Show Answer</summary>
   <p>Inclusiveness</p>
 </details>
+
+<h5>A company employs a team of customer service agents to provide telephone and email support to customers. The company develops a webchat bot to provide automated answers to common customer queries. Which business benefit should the company expect as a result of creating the webchat bot solution?</h5>
+<ol type="a">
+  <li>Increased sales</li>
+  <li>A reduced workload for the customer service agents</li>
+  <li>Improved product reliability</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>A reduced workload for the customer service agents</p>
+</details>
+
+<h5>For a machine learning progress, how should you split data for training and evaluation?</h5>
+<ol type="a">
+  <li>Use features for training and labels for evaluation</li>
+  <li>Randomly split the data into rows for training and rows for evaluation</li>
+  <li>Use labels for training and features for evaluation</li>
+  <li>Randomly split the data into columns for training and columns for evaluation</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Randomly split the data into rows for training and rows for evaluation</p>
+</details>
+
+<h5>You are developing a model to predict events by using classification. You have a confusion matrix for the model scored on test data as shown in the following exhibit.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>11, 1,033</p>
+</details>
+
+<h5>You build a machine learning model by using the automated machine learning user interface (UI). You need to ensure that the model meets the Microsoft transparency principle for responsible AI. What should you do?</h5>
+<ol type="a">
+  <li>Set Validation type to Auto</li>
+  <li>Enable Explain best model</li>
+  <li>Set Primary metric to accuracy</li>
+  <li>Set Max concurrent iterations to 0</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Enable Explain best model</p>
+</details>
+
+<h5>For each of the following statements, select Yes if the statement is true. Otherwise, select No.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>No, Yes, No</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Reliability and safety</p>
+</details>
+
+<h5>Match the types of AI workloads to the appropriate scenarios.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Natural language processing</p>
+</details>
+
+<h5>You are designing an AI system that empowers everyone, including people who have hearing, visual, and other impairments. This is an example of which Microsoft guiding principle for responsible AI?</h5>
+<ol type="a">
+  <li>Fairness</li>
+  <li>Inclusiveness</li>
+  <li>Reliability and safety</li>
+  <li>Accountability</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Inclusiveness</p>
+</details>
+
+<h5>Match the Microsoft guiding principles for responsible AI to the appropriate descriptions.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Reliability and safety<br>Box 2: Accountability<br>Box 3: Privacy and security</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Reliability and safety: To build trust, it's critical that AI systems operate reliably, safely, and consistently under normal circumstances and in unexpected conditions. These systems should be able to operate as they were originally designed, respond safely to unanticipated conditions, and resist harmful manipulation.</p>
+</details>
+
+<h5>You are building an AI system. Which task should you include to ensure that the service meets the Microsoft transparency principle for responsible AI?</h5>
+<ol type="a">
+  <li>Ensure that all visuals have an associated text that can be read by a screen reader</li>
+  <li>Enable autoscaling to ensure that a service scales based on demand</li>
+  <li>Provide documentation to help developers debug code</li>
+  <li>Ensure that a training dataset is representative of the population</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Provide documentation to help developers debug code</p>
+</details>
+
+<h5>Match the types of AI workloads to the appropriate scenarios.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Knowledge mining<br>Box 2: Computer vision<br>Box 3: Natural language processing</p>
+</details>
+
+<h5>Your company is exploring the use of voice recognition technologies in its smart home devices. The company wants to identify any barriers that might unintentionally leave out specific user groups. This an example of which Microsoft guiding principle for responsible AI?</h5>
+<ol type="a">
+  <li>Accountability</li>
+  <li>Fairness</li>
+  <li>Inclusiveness</li>
+  <li>Privacy and security</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Inclusiveness</p>
+</details>
+
+<h5>What are three Microsoft guiding principles for responsible AI? Each correct answer presents a complete solution.</h5>
+<ol type="a">
+  <li>Knowledgeability</li>
+  <li>Decisiveness</li>
+  <li>Inclusiveness</li>
+  <li>Fairness</li>
+  <li>Opinionatedness</li>
+  <li>Reliability and safety</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Inclusiveness, Fairness, Reliability and safety</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness is a core ethical principle that all humans aim to understand and apply. This principle is even more important when AI systems are being developed. Key checks and balances need to make sure that the system's decisions don't discriminate or run a gender, race, sexual orientation, or religion bias toward a group or individual.</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Reliability and safety: AI systems should perform reliably and safely.</p>
+</details>
+
+<h5>During the process of Machine Learning, when should you review evaluation metrics.</h5>
+<ol type="a">
+  <li>Before you train a model</li>
+  <li>After you clean the data</li>
+  <li>Before you choose the type of model</li>
+  <li>After you test a model on the validation data</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>After you test a model on the validation data</p>
+</details>
+
+<h5>You have a natural language processing (NLP) model that was created by using data obtained without permission. Which Microsoft principle for responsible AI does this breach?</h5>
+<ol type="a">
+  <li>Reliability and safety</li>
+  <li>Privacy and security</li>
+  <li>Inclusiveness</li>
+  <li>Transparency</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Privacy and security</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness is a core ethical principle that all humans aim to understand and apply. This principle is even more important when AI systems are being developed. Key checks and balances need to make sure that the system's decisions don't discriminate or run a gender, race, sexual orientation, or religion bias toward a group or individual.</p>
+</details>
+
+<h5>Match the services to the appropriate descriptions. To answer, drag the appropriate service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Azure Bot Service<br>Box 2: Speech</p>
+</details>
+
+<h5>Which machine learning technique can be used for anomaly detection?</h5>
+<ol type="a">
+  <li>A machine learning technique that classifies objects based on user supplied images</li>
+  <li>A machine learning technique that understands written and spoken language</li>
+  <li>A machine learning technique that classifies images based on their contents</li>
+  <li>A machine learning technique that analyzes data over time and identifies unusual changes</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>A machine learning technique that analyzes data over time and identifies unusual changes</p>
+</details>
+
+<h5>You have an AI-based loan approval system. During testing, you discover that the system has a gender bias. Which responsible AI principle does this violate?</h5>
+<ol type="a">
+  <li>Accountability</li>
+  <li>Reliability and safety</li>
+  <li>Transparency</li>
+  <li>Fairness</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness</p>
+</details>
+
+<h5>Match the machine learning tasks to the appropriate scenarios.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Model evaluation<br>Box 2: Feature engineering<br>Box 3: Feature selection</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Regression is a machine learning task that is used to predict the value of the label from a set of related features.</p>
+</details>
+
+<h5>You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements: Include one or more faces. Contain at least one person wearing sunglasses. What should you use to analyze the images?</h5>
+<ol type="a">
+  <li>The Verify operation in the Face service</li>
+  <li>The Detect operation in the Face service</li>
+  <li>The Describe Image operation in the Computer Vision service</li>
+  <li>The Analyze Image operation in the Computer Vision service</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The Detect operation in the Face service</p>
+</details>
+
+<h5>When you design an AI system to assess whether loans should be approved, the factors used to make the decision should be explainable. This is an example of which Microsoft guiding principle for responsible AI?</h5>
+<ol type="a">
+  <li>Transparency</li>
+  <li>Inclusiveness</li>
+  <li>Fairness</li>
+  <li>Privacy and security</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Transparency</p>
+</details>
+
+<h5>For each of the following statements, select Yes if the statement is true. Otherwise, select No.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Yes<br>Box 2: No<br>Box 3: No</p>
+</details>
+
+<h5>Match the principles of responsible AI to the appropriate requirements. To answer, drag the appropriate principles from the column on the left to its requirement on the right. Each principle may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Reliability and safety<br>Box 2: Privacy and security</p>
+</details>
+
+<h5>During the process of Machine Learning, when should you review evaluation metrics?</h5>
+<ol type="a">
+  <li>Before you train a model</li>
+  <li>After you clean the data</li>
+  <li>Before you choose the type of model</li>
+  <li>After you test a model on the validation data</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>After you test a model on the validation data</p>
+</details>
+
+<h5>You have a natural language processing (NLP) model that was created by using data obtained without permission. Which Microsoft principle for responsible AI does this breach?</h5>
+<ol type="a">
+  <li>Reliability and safety</li>
+  <li>Privacy and security</li>
+  <li>Inclusiveness</li>
+  <li>Transparency</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Privacy and security</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness is a core ethical principle that all humans aim to understand and apply. This principle is even more important when AI systems are being developed. Key checks and balances need to make sure that the system's decisions don't discriminate or run a gender, race, sexual orientation, or religion bias toward a group or individual.</p>
+</details>
+
+<h5>Match the services to the appropriate descriptions. To answer, drag the appropriate service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Azure Bot Service<br>Box 2: Speech</p>
+</details>
+
+<h5>Which machine learning technique can be used for anomaly detection?</h5>
+<ol type="a">
+  <li>A machine learning technique that classifies objects based on user supplied images</li>
+  <li>A machine learning technique that understands written and spoken language</li>
+  <li>A machine learning technique that classifies images based on their contents</li>
+  <li>A machine learning technique that analyzes data over time and identifies unusual changes</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>A machine learning technique that analyzes data over time and identifies unusual changes</p>
+</details>
+
+<h5>You have an AI-based loan approval system. During testing, you discover that the system has a gender bias. Which responsible AI principle does this violate?</h5>
+<ol type="a">
+  <li>Accountability</li>
+  <li>Reliability and safety</li>
+  <li>Transparency</li>
+  <li>Fairness</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness</p>
+</details>
+
+<h5>Match the machine learning tasks to the appropriate scenarios.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Model evaluation<br>Box 2: Feature engineering<br>Box 3: Feature selection</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Regression is a machine learning task that is used to predict the value of the label from a set of related features.</p>
+</details>
+
+<h5>You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements: Include one or more faces. Contain at least one person wearing sunglasses. What should you use to analyze the images?</h5>
+<ol type="a">
+  <li>The Verify operation in the Face service</li>
+  <li>The Detect operation in the Face service</li>
+  <li>The Describe Image operation in the Computer Vision service</li>
+  <li>The Analyze Image operation in the Computer Vision service</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The Detect operation in the Face service</p>
+</details>
+
+<h5>When you design an AI system to assess whether loans should be approved, the factors used to make the decision should be explainable. This is an example of which Microsoft guiding principle for responsible AI?</h5>
+<ol type="a">
+  <li>Transparency</li>
+  <li>Inclusiveness</li>
+  <li>Fairness</li>
+  <li>Privacy and security</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Transparency</p>
+</details>
+
+<h5>For each of the following statements, select Yes if the statement is true. Otherwise, select No.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Yes<br>Box 2: No<br>Box 3: No</p>
+</details>
+
+<h5>Match the principles of responsible AI to the appropriate requirements. To answer, drag the appropriate principles from the column on the left to its requirement on the right. Each principle may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Reliability and safety<br>Box 2: Privacy and security</p>
+</details>
+
+<h5>During the process of Machine Learning, when should you review evaluation metrics?</h5>
+<ol type="a">
+  <li>Before you train a model</li>
+  <li>After you clean the data</li>
+  <li>Before you choose the type of model</li>
+  <li>After you test a model on the validation data</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>After you test a model on the validation data</p>
+</details>
+
+<h5>You have a natural language processing (NLP) model that was created by using data obtained without permission. Which Microsoft principle for responsible AI does this breach?</h5>
+<ol type="a">
+  <li>Reliability and safety</li>
+  <li>Privacy and security</li>
+  <li>Inclusiveness</li>
+  <li>Transparency</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Privacy and security</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness is a core ethical principle that all humans aim to understand and apply. This principle is even more important when AI systems are being developed. Key checks and balances need to make sure that the system's decisions don't discriminate or run a gender, race, sexual orientation, or religion bias toward a group or individual.</p>
+</details>
+
+<h5>Match the services to the appropriate descriptions. To answer, drag the appropriate service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Azure Bot Service<br>Box 2: Speech</p>
+</details>
+
+<h5>Which machine learning technique can be used for anomaly detection?</h5>
+<ol type="a">
+  <li>A machine learning technique that classifies objects based on user supplied images</li>
+  <li>A machine learning technique that understands written and spoken language</li>
+  <li>A machine learning technique that classifies images based on their contents</li>
+  <li>A machine learning technique that analyzes data over time and identifies unusual changes</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>A machine learning technique that analyzes data over time and identifies unusual changes</p>
+</details>
+
+<h5>You have an AI-based loan approval system. During testing, you discover that the system has a gender bias. Which responsible AI principle does this violate?</h5>
+<ol type="a">
+  <li>Accountability</li>
+  <li>Reliability and safety</li>
+  <li>Transparency</li>
+  <li>Fairness</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness</p>
+</details>
+
+<h5>Match the machine learning tasks to the appropriate scenarios.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Model evaluation<br>Box 2: Feature engineering<br>Box 3: Feature selection</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Regression is a machine learning task that is used to predict the value of the label from a set of related features.</p>
+</details>
+
+<h5>You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements: Include one or more faces. Contain at least one person wearing sunglasses. What should you use to analyze the images?</h5>
+<ol type="a">
+  <li>The Verify operation in the Face service</li>
+  <li>The Detect operation in the Face service</li>
+  <li>The Describe Image operation in the Computer Vision service</li>
+  <li>The Analyze Image operation in the Computer Vision service</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The Detect operation in the Face service</p>
+</details>
+
+<h5>When you design an AI system to assess whether loans should be approved, the factors used to make the decision should be explainable. This is an example of which Microsoft guiding principle for responsible AI?</h5>
+<ol type="a">
+  <li>Transparency</li>
+  <li>Inclusiveness</li>
+  <li>Fairness</li>
+  <li>Privacy and security</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Transparency</p>
+</details>
+
+<h5>For each of the following statements, select Yes if the statement is true. Otherwise, select No.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Yes<br>Box 2: No<br>Box 3: No</p>
+</details>
+
+<h5>Match the principles of responsible AI to the appropriate requirements. To answer, drag the appropriate principles from the column on the left to its requirement on the right. Each principle may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Reliability and safety<br>Box 2: Privacy and security</p>
+</details>
+
+<h5>During the process of Machine Learning, when should you review evaluation metrics?</h5>
+<ol type="a">
+  <li>Before you train a model</li>
+  <li>After you clean the data</li>
+  <li>Before you choose the type of model</li>
+  <li>After you test a model on the validation data</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>After you test a model on the validation data</p>
+</details>
+
+<h5>You have a natural language processing (NLP) model that was created by using data obtained without permission. Which Microsoft principle for responsible AI does this breach?</h5>
+<ol type="a">
+  <li>Reliability and safety</li>
+  <li>Privacy and security</li>
+  <li>Inclusiveness</li>
+  <li>Transparency</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Privacy and security</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness is a core ethical principle that all humans aim to understand and apply. This principle is even more important when AI systems are being developed. Key checks and balances need to make sure that the system's decisions don't discriminate or run a gender, race, sexual orientation, or religion bias toward a group or individual.</p>
+</details>
+
+<h5>Match the services to the appropriate descriptions. To answer, drag the appropriate service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Azure Bot Service<br>Box 2: Speech</p>
+</details>
+
+<h5>Which machine learning technique can be used for anomaly detection?</h5>
+<ol type="a">
+  <li>A machine learning technique that classifies objects based on user supplied images</li>
+  <li>A machine learning technique that understands written and spoken language</li>
+  <li>A machine learning technique that classifies images based on their contents</li>
+  <li>A machine learning technique that analyzes data over time and identifies unusual changes</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>A machine learning technique that analyzes data over time and identifies unusual changes</p>
+</details>
+
+<h5>You have an AI-based loan approval system. During testing, you discover that the system has a gender bias. Which responsible AI principle does this violate?</h5>
+<ol type="a">
+  <li>Accountability</li>
+  <li>Reliability and safety</li>
+  <li>Transparency</li>
+  <li>Fairness</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness</p>
+</details>
+
+<h5>Match the machine learning tasks to the appropriate scenarios.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Model evaluation<br>Box 2: Feature engineering<br>Box 3: Feature selection</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Regression is a machine learning task that is used to predict the value of the label from a set of related features.</p>
+</details>
+
+<h5>You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements: Include one or more faces. Contain at least one person wearing sunglasses. What should you use to analyze the images?</h5>
+<ol type="a">
+  <li>The Verify operation in the Face service</li>
+  <li>The Detect operation in the Face service</li>
+  <li>The Describe Image operation in the Computer Vision service</li>
+  <li>The Analyze Image operation in the Computer Vision service</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The Detect operation in the Face service</p>
+</details>
+
+<h5>When you design an AI system to assess whether loans should be approved, the factors used to make the decision should be explainable. This is an example of which Microsoft guiding principle for responsible AI?</h5>
+<ol type="a">
+  <li>Transparency</li>
+  <li>Inclusiveness</li>
+  <li>Fairness</li>
+  <li>Privacy and security</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Transparency</p>
+</details>
+
+<h5>For each of the following statements, select Yes if the statement is true. Otherwise, select No.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Yes<br>Box 2: No<br>Box 3: No</p>
+</details>
+
+<h5>Match the principles of responsible AI to the appropriate requirements. To answer, drag the appropriate principles from the column on the left to its requirement on the right. Each principle may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Reliability and safety<br>Box 2: Privacy and security</p>
+</details>
+
+<h5>During the process of Machine Learning, when should you review evaluation metrics?</h5>
+<ol type="a">
+  <li>Before you train a model</li>
+  <li>After you clean the data</li>
+  <li>Before you choose the type of model</li>
+  <li>After you test a model on the validation data</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>After you test a model on the validation data</p>
+</details>
+
+<h5>You have a natural language processing (NLP) model that was created by using data obtained without permission. Which Microsoft principle for responsible AI does this breach?</h5>
+<ol type="a">
+  <li>Reliability and safety</li>
+  <li>Privacy and security</li>
+  <li>Inclusiveness</li>
+  <li>Transparency</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Privacy and security</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness is a core ethical principle that all humans aim to understand and apply. This principle is even more important when AI systems are being developed. Key checks and balances need to make sure that the system's decisions don't discriminate or run a gender, race, sexual orientation, or religion bias toward a group or individual.</p>
+</details>
+
+<h5>Match the services to the appropriate descriptions. To answer, drag the appropriate service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Azure Bot Service<br>Box 2: Speech</p>
+</details>
+
+<h5>Which machine learning technique can be used for anomaly detection?</h5>
+<ol type="a">
+  <li>A machine learning technique that classifies objects based on user supplied images</li>
+  <li>A machine learning technique that understands written and spoken language</li>
+  <li>A machine learning technique that classifies images based on their contents</li>
+  <li>A machine learning technique that analyzes data over time and identifies unusual changes</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>A machine learning technique that analyzes data over time and identifies unusual changes</p>
+</details>
+
+<h5>You have an AI-based loan approval system. During testing, you discover that the system has a gender bias. Which responsible AI principle does this violate?</h5>
+<ol type="a">
+  <li>Accountability</li>
+  <li>Reliability and safety</li>
+  <li>Transparency</li>
+  <li>Fairness</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness</p>
+</details>
+
+<h5>Match the machine learning tasks to the appropriate scenarios.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Model evaluation<br>Box 2: Feature engineering<br>Box 3: Feature selection</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Regression is a machine learning task that is used to predict the value of the label from a set of related features.</p>
+</details>
+
+<h5>You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements: Include one or more faces. Contain at least one person wearing sunglasses. What should you use to analyze the images?</h5>
+<ol type="a">
+  <li>The Verify operation in the Face service</li>
+  <li>The Detect operation in the Face service</li>
+  <li>The Describe Image operation in the Computer Vision service</li>
+  <li>The Analyze Image operation in the Computer Vision service</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The Detect operation in the Face service</p>
+</details>
+
+<h5>When you design an AI system to assess whether loans should be approved, the factors used to make the decision should be explainable. This is an example of which Microsoft guiding principle for responsible AI?</h5>
+<ol type="a">
+  <li>Transparency</li>
+  <li>Inclusiveness</li>
+  <li>Fairness</li>
+  <li>Privacy and security</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Transparency</p>
+</details>
+
+<h5>For each of the following statements, select Yes if the statement is true. Otherwise, select No.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Yes<br>Box 2: No<br>Box 3: No</p>
+</details>
+
+<h5>Match the principles of responsible AI to the appropriate requirements. To answer, drag the appropriate principles from the column on the left to its requirement on the right. Each principle may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Reliability and safety<br>Box 2: Privacy and security</p>
+</details>
+
+<h5>During the process of Machine Learning, when should you review evaluation metrics?</h5>
+<ol type="a">
+  <li>Before you train a model</li>
+  <li>After you clean the data</li>
+  <li>Before you choose the type of model</li>
+  <li>After you test a model on the validation data</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>After you test a model on the validation data</p>
+</details>
+
+<h5>You have a natural language processing (NLP) model that was created by using data obtained without permission. Which Microsoft principle for responsible AI does this breach?</h5>
+<ol type="a">
+  <li>Reliability and safety</li>
+  <li>Privacy and security</li>
+  <li>Inclusiveness</li>
+  <li>Transparency</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Privacy and security</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness is a core ethical principle that all humans aim to understand and apply. This principle is even more important when AI systems are being developed. Key checks and balances need to make sure that the system's decisions don't discriminate or run a gender, race, sexual orientation, or religion bias toward a group or individual.</p>
+</details>
+
+<h5>Match the services to the appropriate descriptions. To answer, drag the appropriate service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Azure Bot Service<br>Box 2: Speech</p>
+</details>
+
+<h5>Which machine learning technique can be used for anomaly detection?</h5>
+<ol type="a">
+  <li>A machine learning technique that classifies objects based on user supplied images</li>
+  <li>A machine learning technique that understands written and spoken language</li>
+  <li>A machine learning technique that classifies images based on their contents</li>
+  <li>A machine learning technique that analyzes data over time and identifies unusual changes</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>A machine learning technique that analyzes data over time and identifies unusual changes</p>
+</details>
+
+<h5>You have an AI-based loan approval system. During testing, you discover that the system has a gender bias. Which responsible AI principle does this violate?</h5>
+<ol type="a">
+  <li>Accountability</li>
+  <li>Reliability and safety</li>
+  <li>Transparency</li>
+  <li>Fairness</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness</p>
+</details>
+
+<h5>Match the machine learning tasks to the appropriate scenarios.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Model evaluation<br>Box 2: Feature engineering<br>Box 3: Feature selection</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Regression is a machine learning task that is used to predict the value of the label from a set of related features.</p>
+</details>
+
+<h5>You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements: Include one or more faces. Contain at least one person wearing sunglasses. What should you use to analyze the images?</h5>
+<ol type="a">
+  <li>The Verify operation in the Face service</li>
+  <li>The Detect operation in the Face service</li>
+  <li>The Describe Image operation in the Computer Vision service</li>
+  <li>The Analyze Image operation in the Computer Vision service</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The Detect operation in the Face service</p>
+</details>
+
+<h5>When you design an AI system to assess whether loans should be approved, the factors used to make the decision should be explainable. This is an example of which Microsoft guiding principle for responsible AI?</h5>
+<ol type="a">
+  <li>Transparency</li>
+  <li>Inclusiveness</li>
+  <li>Fairness</li>
+  <li>Privacy and security</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Transparency</p>
+</details>
+
+<h5>For each of the following statements, select Yes if the statement is true. Otherwise, select No.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Yes<br>Box 2: No<br>Box 3: No</p>
+</details>
+
+<h5>Match the principles of responsible AI to the appropriate requirements. To answer, drag the appropriate principles from the column on the left to its requirement on the right. Each principle may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Reliability and safety<br>Box 2: Privacy and security</p>
+</details>
+
+<h5>During the process of Machine Learning, when should you review evaluation metrics?</h5>
+<ol type="a">
+  <li>Before you train a model</li>
+  <li>After you clean the data</li>
+  <li>Before you choose the type of model</li>
+  <li>After you test a model on the validation data</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>After you test a model on the validation data</p>
+</details>
+
+<h5>You have a natural language processing (NLP) model that was created by using data obtained without permission. Which Microsoft principle for responsible AI does this breach?</h5>
+<ol type="a">
+  <li>Reliability and safety</li>
+  <li>Privacy and security</li>
+  <li>Inclusiveness</li>
+  <li>Transparency</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Privacy and security</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness is a core ethical principle that all humans aim to understand and apply. This principle is even more important when AI systems are being developed. Key checks and balances need to make sure that the system's decisions don't discriminate or run a gender, race, sexual orientation, or religion bias toward a group or individual.</p>
+</details>
+
+<h5>Match the services to the appropriate descriptions. To answer, drag the appropriate service from the column on the left to its description on the right. Each service may be used once, more than once, or not at all. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Azure Bot Service<br>Box 2: Speech</p>
+</details>
+
+<h5>Which machine learning technique can be used for anomaly detection?</h5>
+<ol type="a">
+  <li>A machine learning technique that classifies objects based on user supplied images</li>
+  <li>A machine learning technique that understands written and spoken language</li>
+  <li>A machine learning technique that classifies images based on their contents</li>
+  <li>A machine learning technique that analyzes data over time and identifies unusual changes</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>A machine learning technique that analyzes data over time and identifies unusual changes</p>
+</details>
+
+<h5>You have an AI-based loan approval system. During testing, you discover that the system has a gender bias. Which responsible AI principle does this violate?</h5>
+<ol type="a">
+  <li>Accountability</li>
+  <li>Reliability and safety</li>
+  <li>Transparency</li>
+  <li>Fairness</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness</p>
+</details>
+
+<h5>Match the machine learning tasks to the appropriate scenarios.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Model evaluation<br>Box 2: Feature engineering<br>Box 3: Feature selection</p>
+</details>
+
+<h5>To complete the sentence, select the appropriate option in the answer area.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Regression is a machine learning task that is used to predict the value of the label from a set of related features.</p>
+</details>
+
+<h5>You run a charity event that involves posting photos of people wearing sunglasses on Twitter. You need to ensure that you only retweet photos that meet the following requirements: Include one or more faces. Contain at least one person wearing sunglasses. What should you use to analyze the images?</h5>
+<ol type="a">
+  <li>The Verify operation in the Face service</li>
+  <li>The Detect operation in the Face service</li>
+  <li>The Describe Image operation in the Computer Vision service</li>
+  <li>The Analyze Image operation in the Computer Vision service</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>The Detect operation in the Face service</p>
+</details>
+
+<h5>When you design an AI system to assess whether loans should be approved, the factors used to make the decision should be explainable. This is an example of which Microsoft guiding principle for responsible AI?</h5>
+<ol type="a">
+  <li>Transparency</li>
+  <li>Inclusiveness</li>
+  <li>Fairness</li>
+  <li>Privacy and security</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Transparency</p>
+</details>
+
+<h5>For each of the following statements, select Yes if the statement is true. Otherwise, select No.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Yes<br>Box 2: No<br>Box 3: No</p>
+</details>
+
+<h5>Match the principles of responsible AI to the appropriate requirements. To answer, drag the appropriate principles from the column on the left to its requirement on the right. Each principle may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content. NOTE: Each correct selection is worth one point.</h5>
+<details>
+  <summary>Show Answer</summary>
+  <p>Box 1: Reliability and safety<br>Box 2: Privacy and security</p>
+</details>
+
+<h5>During the process of Machine Learning, when should you review evaluation metrics?</h5>
+<ol type="a">
+  <li>Before you train a model</li>
+  <li>After you clean the data</li>
+  <li>Before you choose the type of model</li>
+  <li>After you test a model on the validation data</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>After you test a model on the validation data
+  </p>
+</details>
+
