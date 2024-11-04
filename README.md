@@ -1266,3 +1266,41 @@ __Disclaimer:__ These practice questions are very similar to the actual exam que
   </p>
 </details>
 
+<h5>You have a natural language processing (NLP) model that was created by using data obtained without permission. Which Microsoft principle for responsible AI does this breach?</h5>
+<ol type="a">
+  <li>Reliability and safety</li>
+  <li>Privacy and security</li>
+  <li>Inclusiveness</li>
+  <li>Transparency</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Privacy and security</p>
+</details>
+
+<h5>Which machine learning technique can be used for anomaly detection?</h5>
+<ol type="a">
+  <li>A machine learning technique that classifies objects based on user supplied images.</li>
+  <li>A machine learning technique that understands written and spoken language.</li>
+  <li>A machine learning technique that classifies images based on their contents.</li>
+  <li>A machine learning technique that analyzes data over time and identifies unusual changes.</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>A machine learning technique that analyzes data over time and identifies unusual changes.</p>
+</details>
+
+<h5>You have an AI-based loan approval system. During testing, you discover that the system has a gender bias. Which responsible AI principle does this violate?</h5>
+<ol type="a">
+  <li>Accountability</li>
+  <li>Reliability and safety</li>
+  <li>Transparency</li>
+  <li>Fairness</li>
+</ol>
+<details>
+  <summary>Show Answer</summary>
+  <p>Fairness</p>
+</details>
+
+
+
